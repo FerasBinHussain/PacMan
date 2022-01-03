@@ -1,1 +1,0 @@
-* PecMan game
