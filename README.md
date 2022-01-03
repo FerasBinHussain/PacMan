@@ -29,7 +29,12 @@ http-server
 
 
 ## Demo
-https://github.com/FerasBinHussain/PacMan/blob/master/PacMan%20demo.mp4
+
+
+https://user-images.githubusercontent.com/26345441/147956148-6f730bc4-2cb5-4680-855c-d57d88faca56.mp4
+
+
+
 
 
 
