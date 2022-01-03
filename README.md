@@ -13,11 +13,11 @@ npm install http-server
 ## How to run
 
 ```bash
-# navigate to project directory
-cd ./PecMan
+# after cloning the repo navigate to project directory
+cd PATH/PecMan
 
 # load http-server 
-http-server 
+http-server  # on Windows (http-server.cmd)
 
 # http-server will return the available localhost ports that running the local server
 # Available on:
