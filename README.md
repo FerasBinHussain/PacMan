@@ -1,6 +1,6 @@
-# PecMan
+# PacMan
 
-PecMan is a game that was developed 
+PacMan is a game that was developed 
 
 ## Installation
 
@@ -21,16 +21,17 @@ http-server
 
 # http-server will return the available localhost ports that running the local server
 # Available on:
-#  http://127.0.0.1:8080
-# open this URL(http://127.0.0.1:8080) in your browser 
+#  http://127.0.0.1:8080 <-- in my case
+
+# open the available URL in your browser 
 ```
 
 
 
-## Contributing
-Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
+## Demo
+https://github.com/FerasBinHussain/PacMan/blob/master/PacMan%20demo.mp4
 
-Please make sure to update tests as appropriate.
+
 
 ## License
-[MIT](https://github.com/FerasBinHussain/PecMan/blob/master/LICENSE)
+[MIT](https://github.com/FerasBinHussain/PacMan/blob/master/LICENSE)
