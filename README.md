@@ -28,18 +28,6 @@ http-server  # on Windows (http-server.cmd)
 # open the available URL in your browser 
 ```
 
-
-
-## Demo
-
-https://user-images.githubusercontent.com/26345441/147957133-affa5fab-9d3b-4fb4-90f9-85a6b436cc89.mp4
-
-
-
-
-
-
-
-
 ## License
-[MIT](https://github.com/FerasBinHussain/eye-movement/blob/master/LICENSE)
+[MIT](https://github.com/FerasBinHussain/PacMan/blob/master/LICENSE)
+
