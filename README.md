@@ -1,6 +1,8 @@
 # PacMan
 
-PacMan is a game that was developed 
+In this exercise, I created PacMen with the click of a button and each of them will move about the browser window at their own pace. 
+
+In this exercise, I've created a web page that produces a PacMan on the click of a button by using the array methods I've learned previously and the new techniques I've learned for manipulating the DOM.
 
 ## Installation
 
