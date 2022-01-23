@@ -42,4 +42,4 @@ https://user-images.githubusercontent.com/26345441/147957133-affa5fab-9d3b-4fb4-
 
 
 ## License
-[MIT](https://github.com/FerasBinHussain/PacMan/blob/master/LICENSE)
+[MIT](https://github.com/FerasBinHussain/eye-movement/blob/master/LICENSE)
